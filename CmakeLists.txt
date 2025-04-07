@@ -4,10 +4,9 @@ project(AmortizingEngine)
 
 set(CMAKE_CXX_STANDARD 17)
 
-# Include the directories where your headers are
 include_directories(include)
 
-# Add your source files
+
 add_executable(amortizingengine
     src/main.cpp
     src/multiplier.cpp
