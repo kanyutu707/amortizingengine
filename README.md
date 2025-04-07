@@ -25,7 +25,7 @@ Before you begin, ensure that you have the following installed on your machine:
    Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/amortizingengine.git
+   https://github.com/kanyutu707/amortizingengine.git
    ```
 
 2. **Navigate to the project directory**
